@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush1891&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1891" /> </p>
 
-- 🔭 I’m currently working on **JivaFit** is working on ** Multi-Layer Perceptron** to predict the Disease Risk
+- 🔭 I’m currently working on **JivaFit** is working on **Multi-Layer Perceptron** to predict the Disease Risk
 
 - 🌱 I’m currently learning **Deep Learning and Power BI**
 
