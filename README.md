@@ -1,32 +1,51 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush1891&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1891" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush1891&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1891" />
+</p>
 
-- 🔭 I’m currently working on **JivaFit** is working on **Multi-Layer Perceptron** to predict the Disease Risk
+---
 
-- 🌱 I’m currently learning **Deep Learning and Power BI**
+- 🔭 I’m currently developing a project called **JivaFit**, where I'm applying a **Multi-Layer Perceptron** to predict disease risk.
+
+- 🌱 I’m currently learning **Deep Learning** and **Power BI**.
 
 - 👨‍💻 All of my projects are available at [https://datascienceportfol.io/ayushkumar1891](https://datascienceportfol.io/ayushkumar1891)
 
-- 💬 Ask me about **Python, SQL, Pandas**
+- 💬 Ask me about **Python, SQL, and Pandas**.
 
-- 📫 How to reach me **ayushkumar1891@gmail.com**
+- 📫 How to reach me: **ayushkumar1891@gmail.com**
 
-- ⚡ Fun fact **I enjoy playing basketball and doing calisthenics.**
+- ⚡ **Fun fact:** I enjoy playing basketball and doing calisthenics.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-kumar-82938a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-82938a1b1" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayush1891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush1891" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushkumar1891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkumar1891" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush1891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush1891" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-kumar-82938a1b1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-82938a1b1" height="30" width="40" /></a>
+<a href="https://kaggle.com/ayush1891" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush1891" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayushkumar1891" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkumar1891" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush1891" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush1891" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush1891&show_icons=true&locale=en&layout=compact" alt="ayush1891" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush1891&show_icons=true&locale=en" alt="ayush1891" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush1891&show_icons=true&locale=en" alt="ayush1891 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush1891&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
