@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ayush1891](https://datascienceportfol.io/ayushkumar1891)
+- 👨‍💻 All of my projects are available at [https://datascienceportfol.io/ayushkumar1891](https://datascienceportfol.io/ayushkumar1891)
 
 - 💬 Ask me about **Python, SQL, Pandas**
 
