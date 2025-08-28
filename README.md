@@ -45,7 +45,24 @@ Tags:
 Links:
 [GitHub Repository](https://github.com/Ayush1891/JivaFit)
 
+**Predicting Customer Purchase Value**
 
+This data science project analyzes historical transaction and customer behavior data to build a predictive model for forecasting revenue and optimizing marketing strategies. The core of this tool is a Random Forest regression model, which combines multiple decision trees to provide robust predictions of a customer's total purchase value. The model also provides insights into which factors most influence a customer's spending, allowing for more informed business decisions.
+
+Tags:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF5722?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Regression-009688?style=for-the-badge" alt="Regression" />
+  <img src="https://img.shields.io/badge/Random_Forest-2196F3?style=for-the-badge" alt="Random Forest" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+Links:
+[GitHub Repository](https://github.com/Ayush1891/Purchase-Value-Prediction)
 
 ---
 
