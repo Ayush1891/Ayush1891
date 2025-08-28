@@ -16,15 +16,34 @@ This project automates the analysis of large-scale customer feedback using Natur
 Tags:
 
 <p>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentiment_Analysis-007ACC?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 Links:
-[GitHub Repository](https://datascienceportfol.io/ayushkumar1891)
+[GitHub Repository](https://github.com/Ayush1891/Review-Sentiment-Analyzer)
+
+**Jiva Fit**
+
+Jivafit is a deep learning project that uses a Multi-Layer Perceptron (MLP) to analyze various health-related data points and predict disease risk. The model is designed to provide actionable insights into potential health risks, offering a scalable and predictive tool for public health analysis.
+
+Tags:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-5E35B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Disease_Prediction-007ACC?style=for-the-badge" />
+</p>
+
+Links:
+[GitHub Repository](https://github.com/Ayush1891/JivaFit)
 
 
 
