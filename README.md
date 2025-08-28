@@ -7,6 +7,29 @@
 
 ---
 
+### My Pinned Projects
+
+**Review Sentiment Analyzer**
+
+This project automates the analysis of large-scale customer feedback using Natural Language Processing (NLP) and Machine Learning. The core of this tool is a model that instantly translates raw review text into a corresponding star rating, providing rapid and actionable insights into product satisfaction.
+
+Tags:
+
+<p>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+
+Links:
+[GitHub Repository](https://datascienceportfol.io/ayushkumar1891)
+
+
+
+---
+
 - 🔭 I’m currently developing a project called **JivaFit**, where I'm applying a **Multi-Layer Perceptron** to predict disease risk.
 
 - 🌱 I’m currently learning **Deep Learning** and **Power BI**.
