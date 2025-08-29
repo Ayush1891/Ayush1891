@@ -7,7 +7,7 @@
 
 ---
 
-### My Pinned Projects
+## My Pinned Projects
 
 **Review Sentiment Analyzer**
 
