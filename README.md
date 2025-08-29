@@ -9,7 +9,7 @@
 
 ## ⭐ My Pinned Projects
 
-**Review Sentiment Analyzer**
+### Review Sentiment Analyzer
 
 This project automates the analysis of large-scale customer feedback using Natural Language Processing (NLP) and Machine Learning. The core of this tool is a model that instantly translates raw review text into a corresponding star rating, providing rapid and actionable insights into product satisfaction.
 
@@ -27,7 +27,7 @@ Tags:
 Links:
 [GitHub Repository](https://github.com/Ayush1891/Review-Sentiment-Analyzer)
 
-**Jiva Fit**
+### Jiva Fit
 
 Jivafit is a deep learning project that uses a Multi-Layer Perceptron (MLP) to analyze various health-related data points and predict disease risk. The model is designed to provide actionable insights into potential health risks, offering a scalable and predictive tool for public health analysis.
 
@@ -45,7 +45,7 @@ Tags:
 Links:
 [GitHub Repository](https://github.com/Ayush1891/JivaFit)
 
-**Predicting Customer Purchase Value**
+### Predicting Customer Purchase Value
 
 This data science project analyzes historical transaction and customer behavior data to build a predictive model for forecasting revenue and optimizing marketing strategies. The core of this tool is a Random Forest regression model, which combines multiple decision trees to provide robust predictions of a customer's total purchase value. The model also provides insights into which factors most influence a customer's spending, allowing for more informed business decisions.
 
@@ -84,7 +84,7 @@ Links:
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h2 align="left">🤝 Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-kumar-82938a1b1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-82938a1b1" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayush1891" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayush1891" height="30" width="40" /></a>
@@ -94,7 +94,7 @@ Links:
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h2 align="left">💻 Languages and Tools</h2>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -108,7 +108,13 @@ Links:
 
 ---
 
+<h2 align="left">📊 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush1891&show_icons=true&locale=en" alt="ayush1891 stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush1891&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+<h2 align="center">🙏 Thank You</h2>
+<p align='center'>Thank you for taking the time to review my profile and projects. I'm always open to feedback and collaboration!</p>
