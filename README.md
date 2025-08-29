@@ -68,7 +68,7 @@ Links:
 
 ## About Me
 
-- 🔭 I’m currently developing a project called **JivaFit**, where I'm applying a **Multi-Layer Perceptron** to predict disease risk.
+- 🔭 I’m currently developing a project called **Jiva Fit**, where I'm applying a **Multi-Layer Perceptron** to predict disease risk.
 
 - 🌱 I’m currently learning **Deep Learning** and **Power BI**.
 
