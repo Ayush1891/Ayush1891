@@ -78,7 +78,7 @@ Links:
 
 - 📫 How to reach me: **ayushkumar1891@gmail.com**
 
-- 📄 You can download my resume here: [Ayush_Kumar_Resume.pdf](https://drive.google.com/file/d/1iu3qlj0kpxk_4EunmtiV-ZTb750LbXsi/view?usp=drive_link)
+- 📄 You can download my resume here: [Ayush_Kumar_Resume.pdf](https://drive.google.com/file/d/1Lgl1_Z8In2WcKtisMWd59ARKS6yr-q_N/view?usp=sharing)
 
 - ⚡ **Fun fact:** I enjoy playing basketball and doing calisthenics.
 
